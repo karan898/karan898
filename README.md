@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karansinh Chauhan
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently in MERN Stack, Next JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Instagram: https://www.instagram.com/__karansinh__/
 
