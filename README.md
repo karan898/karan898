@@ -35,7 +35,7 @@ const karansinh = {
   currentlyLearning: ["MERN Stack", "Next.js"],
   interests: ["Web Development", "Clean UI", "Open Source"],
   lookingToCollaborateOn: "Modern web apps & open-source projects",
-  funFact: "I debug with console.log and I'm not ashamed 😄",
+  funFact: "I debug with console.log and little bit of AI 😄",
 };
 ```
 
